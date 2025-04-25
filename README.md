@@ -1,63 +1,84 @@
 # Proyectos Final de Ciclo de 2º DAM
-**curso 2023|24**
+**curso 2024|25**
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023|24.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2024|25.
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2dam-tfc-2324/wiki).
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2dam-tfc-2425/wiki).
 ## Profesores 
 La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada turno.
 ### Turno de Mañana
-* [David Hormigo](https://github.com/DavidHormigoRamirez)
+* [David Hormigo](https://github.com/DavidHormigoRamirez) 
 * [Miguel Ángel Ronda](https://github.com/profemronda)
 * [Juan Antonio Garcia](https://github.com/juanarrow)
-* [Alberto Garcia](https://github.com/teacher-IT)
+* [Carmen Campos]()
 ### Turno de Tarde
-
+* [José Santos]()
+* [Javier Úbeda]()
+* [Juan Manuel López García]()
+* [] ()
 ## Índice a los proyectos de cada alumno
 
 ### 2º DAM Mañana
 
-| Proyecto                                                                                                                         | Alumno(s)                                              |
-|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| [ActiveLife](https://github.com/PabloGM1204/TFG-ActiveLife)                                                                      | Antonio Luis García Guerrero  <br>  Pablo García Muñoz |
-| [CarCare](https://github.com/Juanma-Gutierrez/TFC-2DAM-CarCare)                                                                  | Juan Manuel Gutiérrez Mellado                          |
-| [Chato](https://github.com/imchopi/TFG_Chato)                                                                                    | Javier Martín Gallardo<br> Adrián Perogil Fernández    |
-| [Globetrotting](https://marruiart.notion.site/Anteproyecto-Trabajo-Fin-de-Ciclo-TFC-2-DAM-2024-0088e98bd60f46969bcb7453cd2120f7) | Marina Ruiz Artacho                                    |
-| [Home Slam](https://github.com/Kuzafkto/TFG-2DAM-HomeSlam)                                                                       | Marco Valente                                          |
-| [Nook's toolbox](https://github.com/Jesushs4/TFG-NooksToolbox)                                                                   | Denisa-Ramona Belean<br> Jesús Herrera Sánchez         |
-| [SquadMe](https://github.com/squadMe-Proyect/squadme)                                                                            | Borja Bravo Casermeiro<br>Daniel Luque Gallardo        |
+|Proyecto | Alumno(s)|
+|-----------------------------------------------------------------------------------| ------------------------------|
+| [Call of Duty Wiki](https://github.com/PaulaAtencia/TFG-CallofDuty)               | Atencia Barranco, Paula |
+| [Proyecto]()                                                                      | Avella Pérez, Samuel |
+| [Proyecto]()                                                                      | Barrios Márquez, Adrián |
+| [TrainingRoutine](https://github.com/pablitocavaz04/TrainingRoutine-TFG)                                                                      | Camino Vázquez, Pablo |
+| [My Serie](https://github.com/vdemi12/TFG-MySerie)                                                                      | Caro Romero, Iván |
+| [ReadyToEnjoy](https://github.com/Veroonicagp/ReadyToEnjoyy)                                                                      | Corbacho Millán, Rocío |
+| [FalconFit](https://github.com/FalconFit)                                         | Falcón Carvajal, Miguel Jesús |
+| [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Gallego Ríos, Boris |
+| [ReceteoQueTeVeo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo)                | Gil Sánchez, Carlos |
+| [Proyecto]()                                                                      | Giráldez Guerrero, Alejandro |
+| [ReadyToEnjoy](https://github.com/Veroonicagp/ReadyToEnjoyy)                                                                      | González Pons, Verónica |
+| [Proyecto]()                                                                      | Jódar Barbero, Daniel |
+| [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
+| [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Leiva López, Eloy |
+| [PokéBinder TCG](https://github.com/cesarjulio19/pokebindertcg-tfg)                                                                      | Martín González, Cesar Julio |
+| [My Serie](https://github.com/vdemi12/TFG-MySerie)                                                                      | de Miguel Díez, Víctor |
+| [Proyecto]()                                                                      | Moncayo Pérez, Rafael |
+| [Proyecto]()                                                                      | San Juan Thompson, Joseph Luca |
+| [FutFan](https://github.com/AlonsoSMdV/FutFan_tfg)                                                                      | Sánchez Moreno de Vega, Alonso |
+| [Sprout It](https://github.com/DavidSoleraRomero/sprout-it-tfg)                    | Solera Romero, David |
+
+
 
 ### 2º DAM Tarde
-`por determinar`
+|Proyecto | Alumno(s)|
+|-----------------------------------------------------------------------------------| ------------------------------|
+| [Proyecto]()                                                                      |Alumnos |
+
 
 ## 📝 Fechas a tener en cuenta
-* Anteproyecto: **5 de abril de 2024**
-* Revisión (checkpoint): **10 de mayo de 2024**
-* Entrega de proyecto: **14 de junio de 2024**
-* Exposiciones: **17 y 18 de junio de 2024**
+* Anteproyecto: **31 de marzo**
+* Checkpoint:  **30 de abril**
+* Entrega: **13 de junio**
+* Exposiciones: **semana del 16 al 20 de junio** 
 
 ## ⏰ Cuadrante horario de las exposiciones
 
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 **2º DAM Mañana**
-#### :calendar: martes 18 de junio de 2024
+#### :calendar: junio 2025 (day tbd)
 
 | Hora | Alumno(s)                                              |
 |------|--------------------------------------------------------|
-| 8:30 | Javier Martín Gallardo<br> Adrián Perogil Fernández    |
-| 8:50 | Juan Manuel Gutiérrez Mellado                          |
-| 9:10 | Marco Valente                                          |
-| 9:30 | Denisa-Ramona Belean<br> Jesús Herrera Sánchez         |
-| 9:50 | Borja Bravo Casermeiro<br>Daniel Luque Gallardo        |
-| 10:10 | Marina Ruiz Artacho                                    |
-| 10:30 | Antonio Luis García Guerrero  <br>  Pablo García Muñoz |
+| 00:00 | Alumno 1 <br> Alumno 2   |
+| 00:30 | Alumno 3                       |
 
 **2º DAM Tarde**
 
-`por determinar`
+#### :calendar: junio 2025 (day tbd)
+
+| Hora | Alumno(s)                                              |
+|------|--------------------------------------------------------|
+| 00:00 | Alumno 1 <br> Alumno 2   |
+| 00:30 | Alumno 3                       |
 
 ## :school: Lugar de las exposiciones
 
